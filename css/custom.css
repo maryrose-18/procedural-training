@@ -1,0 +1,20 @@
+.container
+{
+    padding-top: 20px;
+    /* height: 500px; */
+}
+
+.panel
+{
+    height: 640px;
+}
+
+.nav-item
+{
+    color: rgb(255, 255, 255);
+}
+
+.nav-item:hover
+{
+    color: rgb(0, 0, 0);
+}
