@@ -12,6 +12,6 @@
 
 </body>
 <footer>
-
+    <?php include 'footer-links.php';?>
 </footer>
 </html>
